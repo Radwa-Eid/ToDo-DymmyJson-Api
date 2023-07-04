@@ -1,0 +1,26 @@
+.col-md-6{
+    color: #fff;
+}
+.toDo__heading{
+    color: #fff;
+    font-size: large;
+    padding: 10px 0 0;
+    font-family: 'Poor Story', cursive;
+    font-size: 50px;
+}
+.form-control{
+    background-color: transparent;
+}
+.form-control:focus{
+    background-color: transparent;
+    border-color: #d3d0d02f;
+    box-shadow: none;
+    color: #fff;
+}
+.btn-outline-secondary:focus{
+    box-shadow:none
+}
+.table td, .table th{
+    border-bottom: 1px solid #dee2e6;
+    border-top: none;
+}
